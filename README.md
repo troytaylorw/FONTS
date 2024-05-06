@@ -1,3 +1,2 @@
 # FONTS
-
-https://github.com/troytaylorw/fonts
+https://troytaylorw.github.io/FONTS
